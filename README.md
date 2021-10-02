@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello my name is Nikita 👋
+### I am a programmer and a game developer
 - 🌱 I’m currently learning C++ for ue4
 <!--
 **nikivan43/nikivan43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
