@@ -1,6 +1,6 @@
 ### Hello there, my name is Nick! 👋
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 ### I am a programmer and a game developer
+<img src="https://i.imgur.com/wGq0P49.jpeg" width="30px">
 - 🌱 I’m currently learning C++ for ue4
 - 🤓 I can code in Python, C# and JS.
 - 😄 Pronouns: He/Him
