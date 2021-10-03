@@ -1,7 +1,7 @@
 ### Hello there, my name is Nick! 👋
 ### I am a programmer and a game developer
 - 🌱 I’m currently learning C++ for ue4
-- 🤓 I can code in python, c# and js.
+- 🤓 I can code in Python, C# and JS.
 - 😄 Pronouns: He/Him
 ### Hobies:
 - 🎹 Playing piano
