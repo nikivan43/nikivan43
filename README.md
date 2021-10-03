@@ -4,7 +4,7 @@
 - 🤓 I can code in python, c# and js.
 - 😄 Pronouns: He/Him
 ### Hobies:
-- 🎹 I can play piano
+- 🎹 Playing piano
 - 🛠️ Creating robots irl
 <!--
 **nikivan43/nikivan43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
